@@ -24,4 +24,6 @@ let length = products.length;
 // и выполняете addProduct с каждым элементом массива products (передавая элемент массива как аргумент)
 for (let i = 0; i < length; i += 1); {
     addProduct(products[i]);
-}}
+}
+return product;
+}
